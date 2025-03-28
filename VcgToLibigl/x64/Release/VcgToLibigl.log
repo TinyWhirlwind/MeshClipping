@@ -1,0 +1,1345 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(QuickHull.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  MeshClipping.cpp
+D:\libiglInstall\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libiglInstall\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libiglInstall\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(666,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(195,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\MeshReConstruction.h(18,29): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(46,26): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(84,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(85,45): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(85,45): warning C4267:         with
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(85,45): warning C4267:         [
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(85,45): warning C4267:             _Ty=int
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(85,45): warning C4267:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(117,40): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(134,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(142,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(143,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(144,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CutMesh.h(57,41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CutMesh.h(91,30): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CutMesh.h(131,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CutMesh.h(156,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CutMesh.h(157,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CutMesh.h(193,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CutMesh.h(194,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CutMesh.h(251,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\CutMesh.h(252,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\exterior_edges.cpp(91,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\exterior_edges.cpp(92,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\fast_winding_number.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\fast_winding_number.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\internal_angles.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\internal_angles.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\swept_volume.cpp(32,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\swept_volume.cpp(32,17): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\swept_volume.cpp(34,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\swept_volume.cpp(34,15): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\Sweeping.h(37,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\Sweeping.h(55,59): warning C4244: “参数”: 从“int”转换到“const P3ScalarType”，可能丢失数据
+D:\Myproject\VcgToLibigl\VcgToLibigl\Sweeping.h(55,59): warning C4244:         with
+D:\Myproject\VcgToLibigl\VcgToLibigl\Sweeping.h(55,59): warning C4244:         [
+D:\Myproject\VcgToLibigl\VcgToLibigl\Sweeping.h(55,59): warning C4244:             P3ScalarType=float
+D:\Myproject\VcgToLibigl\VcgToLibigl\Sweeping.h(55,59): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\Sweeping.h(100,61): warning C4244: “参数”: 从“const double”转换到“const size_t”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(121,103): warning C4305: “参数”: 从“double”到“float”截断
+D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(122,103): warning C4305: “参数”: 从“double”到“float”截断
+D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(152,103): warning C4305: “参数”: 从“double”到“float”截断
+D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(160,51): warning C4305: “参数”: 从“double”到“float”截断
+D:\vcglib\vcg\complex\algorithms\clean.h(748,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const P3ScalarType”，可能丢失数据
+D:\vcglib\vcg\complex\algorithms\clean.h(748,26): warning C4244:         with
+D:\vcglib\vcg\complex\algorithms\clean.h(748,26): warning C4244:         [
+D:\vcglib\vcg\complex\algorithms\clean.h(748,26): warning C4244:             P3ScalarType=float
+D:\vcglib\vcg\complex\algorithms\clean.h(748,26): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\complex\algorithms\clean.h(748,26):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(224,28):
+          查看对正在编译的 类 模板 实例化“vcg::tri::Clean<CMeshO>”的引用
+          D:\vcglib\vcg\complex\algorithms\clean.h(679,16):
+          在编译 类 模板 成员函数“size_t vcg::tri::Clean<CMeshO>::SplitManifoldComponents(CMeshO &,const float)”时
+              D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(148,50):
+              请参阅 "MeshClipping::PImpl::surfaceConstruction" 中对 "vcg::tri::Clean<CMeshO>::SplitManifoldComponents" 的第一个引用
+  
+D:\vcglib\vcg\complex\algorithms\clean.h(670,38): warning C4244: “参数”: 从“unsigned __int64”转换到“const P3ScalarType”，可能丢失数据
+D:\vcglib\vcg\complex\algorithms\clean.h(670,38): warning C4244:         with
+D:\vcglib\vcg\complex\algorithms\clean.h(670,38): warning C4244:         [
+D:\vcglib\vcg\complex\algorithms\clean.h(670,38): warning C4244:             P3ScalarType=float
+D:\vcglib\vcg\complex\algorithms\clean.h(670,38): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\complex\algorithms\clean.h(670,38):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\vcglib\vcg\complex\algorithms\clean.h(617,13):
+          在编译 类 模板 成员函数“int vcg::tri::Clean<CMeshO>::SplitNonManifoldVertex(CMeshO &,float)”时
+              D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(146,49):
+              请参阅 "MeshClipping::PImpl::surfaceConstruction" 中对 "vcg::tri::Clean<CMeshO>::SplitNonManifoldVertex" 的第一个引用
+  
+D:\vcglib\vcg\complex\algorithms\clean.h(424,21): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\complex\algorithms\clean.h(424,21):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\vcglib\vcg\complex\algorithms\clean.h(396,13):
+          在编译 类 模板 成员函数“int vcg::tri::Clean<CMeshO>::RemoveUnreferencedVertex(CMeshO &,bool)”时
+              D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(225,52):
+              请参阅 "CMeshO::EnableAttribute" 中对 "vcg::tri::Clean<CMeshO>::RemoveUnreferencedVertex" 的第一个引用
+  
+D:\vcglib\vcg\simplex\vertex\component_ocf.h(535,16): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\simplex\vertex\component_ocf.h(535,16):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(70,30):
+          查看对正在编译的 类 模板 实例化“vcg::Vertex<CUsedTypesO,vcg::vertex::InfoOcf,vcg::vertex::Coord3m,vcg::vertex::BitFlags,vcg::vertex::Normal3m,vcg::vertex::Qualitym,vcg::vertex::Color4b,vcg::vertex::VFAdjOcf,vcg::vertex::MarkOcf,vcg::vertex::TexCoordfOcf,vcg::vertex::CurvatureDirmOcf,vcg::vertex::RadiusmOcf,vcg::DefaultDeriver>”的引用
+          D:\vcglib\vcg\simplex\vertex\base.h(193,29):
+          查看对正在编译的 类 模板 实例化“vcg::VertexArityMax<UserTypes,A,B,C,D,E,F,G,H,I,J,K,L>”的引用
+          with
+          [
+              UserTypes=CUsedTypesO,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf,
+              I=vcg::vertex::TexCoordfOcf,
+              J=vcg::vertex::CurvatureDirmOcf,
+              K=vcg::vertex::RadiusmOcf,
+              L=vcg::DefaultDeriver
+          ]
+          D:\vcglib\vcg\simplex\vertex\base.h(64,30):
+          查看对正在编译的 类 模板 实例化“vcg::Arity12<vcg::vertex::EmptyCore<UserTypes>,A,B,C,D,E,F,G,H,I,J,K,L>”的引用
+          with
+          [
+              UserTypes=CUsedTypesO,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf,
+              I=vcg::vertex::TexCoordfOcf,
+              J=vcg::vertex::CurvatureDirmOcf,
+              K=vcg::vertex::RadiusmOcf,
+              L=vcg::DefaultDeriver
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(124,63):
+          查看对正在编译的 类 模板 实例化“vcg::DefaultDeriver<vcg::Arity11<Base,A,B,C,D,E,F,G,H,I,J,K>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf,
+              I=vcg::vertex::TexCoordfOcf,
+              J=vcg::vertex::CurvatureDirmOcf,
+              K=vcg::vertex::RadiusmOcf
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(32,31):
+          查看对正在编译的 类 模板 实例化“vcg::Arity11<Base,A,B,C,D,E,F,G,H,I,J,K>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf,
+              I=vcg::vertex::TexCoordfOcf,
+              J=vcg::vertex::CurvatureDirmOcf,
+              K=vcg::vertex::RadiusmOcf
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(113,28):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::RadiusmOcf<vcg::Arity10<Base,A,B,C,D,E,F,G,H,I,J>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf,
+              I=vcg::vertex::TexCoordfOcf,
+              J=vcg::vertex::CurvatureDirmOcf
+          ]
+          D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(32,48):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::RadiusOcf<float,T>”的引用
+          with
+          [
+              T=vcg::Arity10<vcg::vertex::EmptyCore<CUsedTypesO>,vcg::vertex::InfoOcf,vcg::vertex::Coord3m,vcg::vertex::BitFlags,vcg::vertex::Normal3m,vcg::vertex::Qualitym,vcg::vertex::Color4b,vcg::vertex::VFAdjOcf,vcg::vertex::MarkOcf,vcg::vertex::TexCoordfOcf,vcg::vertex::CurvatureDirmOcf>
+          ]
+          D:\vcglib\vcg\simplex\vertex\component_ocf.h(495,54):
+          查看对正在编译的 类 模板 实例化“vcg::Arity10<Base,A,B,C,D,E,F,G,H,I,J>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf,
+              I=vcg::vertex::TexCoordfOcf,
+              J=vcg::vertex::CurvatureDirmOcf
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(103,28):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::CurvatureDirmOcf<vcg::Arity9<Base,A,B,C,D,E,F,G,H,I>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf,
+              I=vcg::vertex::TexCoordfOcf
+          ]
+          D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(28,54):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::CurvatureDirOcf<vcg::vertex::CurvatureDirTypeOcf<float>,T>”的引用
+          with
+          [
+              T=vcg::Arity9<vcg::vertex::EmptyCore<CUsedTypesO>,vcg::vertex::InfoOcf,vcg::vertex::Coord3m,vcg::vertex::BitFlags,vcg::vertex::Normal3m,vcg::vertex::Qualitym,vcg::vertex::Color4b,vcg::vertex::VFAdjOcf,vcg::vertex::MarkOcf,vcg::vertex::TexCoordfOcf>
+          ]
+          D:\vcglib\vcg\simplex\vertex\component_ocf.h(447,60):
+          查看对正在编译的 类 模板 实例化“vcg::Arity9<Base,A,B,C,D,E,F,G,H,I>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf,
+              I=vcg::vertex::TexCoordfOcf
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(94,27):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::TexCoordfOcf<vcg::Arity8<Base,A,B,C,D,E,F,G,H>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf
+          ]
+          D:\vcglib\vcg\simplex\vertex\component_ocf.h(406,47):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::TexCoordOcf<vcg::TexCoord2<float,1>,T>”的引用
+          with
+          [
+              T=vcg::Arity8<vcg::vertex::EmptyCore<CUsedTypesO>,vcg::vertex::InfoOcf,vcg::vertex::Coord3m,vcg::vertex::BitFlags,vcg::vertex::Normal3m,vcg::vertex::Qualitym,vcg::vertex::Color4b,vcg::vertex::VFAdjOcf,vcg::vertex::MarkOcf>
+          ]
+          D:\vcglib\vcg\simplex\vertex\component_ocf.h(388,56):
+          查看对正在编译的 类 模板 实例化“vcg::Arity8<Base,A,B,C,D,E,F,G,H>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf,
+              H=vcg::vertex::MarkOcf
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(85,27):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::MarkOcf<vcg::Arity7<Base,A,B,C,D,E,F,G>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf
+          ]
+          D:\vcglib\vcg\simplex\vertex\component_ocf.h(412,42):
+          查看对正在编译的 类 模板 实例化“vcg::Arity7<Base,A,B,C,D,E,F,G>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b,
+              G=vcg::vertex::VFAdjOcf
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(77,27):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::VFAdjOcf<vcg::Arity6<Base,A,B,C,D,E,F>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b
+          ]
+          D:\vcglib\vcg\simplex\vertex\component_ocf.h(275,43):
+          查看对正在编译的 类 模板 实例化“vcg::Arity6<Base,A,B,C,D,E,F>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym,
+              F=vcg::vertex::Color4b
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(69,27):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::Color4b<vcg::Arity5<Base,A,B,C,D,E>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym
+          ]
+          D:\vcglib\vcg\simplex\vertex\component.h(383,43):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::Color<vcg::Color4b,TT>”的引用
+          with
+          [
+              TT=vcg::Arity5<vcg::vertex::EmptyCore<CUsedTypesO>,vcg::vertex::InfoOcf,vcg::vertex::Coord3m,vcg::vertex::BitFlags,vcg::vertex::Normal3m,vcg::vertex::Qualitym>
+          ]
+          D:\vcglib\vcg\simplex\vertex\component.h(367,49):
+          查看对正在编译的 类 模板 实例化“vcg::Arity5<Base,A,B,C,D,E>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m,
+              E=vcg::vertex::Qualitym
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(62,27):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::Qualitym<vcg::Arity4<Base,A,B,C,D>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m
+          ]
+          D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(24,46):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::Quality<float,T>”的引用
+          with
+          [
+              T=vcg::Arity4<vcg::vertex::EmptyCore<CUsedTypesO>,vcg::vertex::InfoOcf,vcg::vertex::Coord3m,vcg::vertex::BitFlags,vcg::vertex::Normal3m>
+          ]
+          D:\vcglib\vcg\simplex\vertex\component.h(395,52):
+          查看对正在编译的 类 模板 实例化“vcg::Arity4<Base,A,B,C,D>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags,
+              D=vcg::vertex::Normal3m
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(55,27):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::Normal3m<vcg::Arity3<Base,A,B,C>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags
+          ]
+          D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(20,46):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::Normal<vcg::Point3<float>,T>”的引用
+          with
+          [
+              T=vcg::Arity3<vcg::vertex::EmptyCore<CUsedTypesO>,vcg::vertex::InfoOcf,vcg::vertex::Coord3m,vcg::vertex::BitFlags>
+          ]
+          D:\vcglib\vcg\simplex\vertex\component.h(234,50):
+          查看对正在编译的 类 模板 实例化“vcg::Arity3<Base,A,B,C>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m,
+              C=vcg::vertex::BitFlags
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(49,27):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::BitFlags<vcg::Arity2<Base,A,B>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m
+          ]
+          D:\vcglib\vcg\simplex\vertex\component.h(344,44):
+          查看对正在编译的 类 模板 实例化“vcg::Arity2<Base,A,B>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf,
+              B=vcg::vertex::Coord3m
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(43,27):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::Coord3m<vcg::Arity1<Base,A>>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf
+          ]
+          D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(16,45):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::Coord<vcg::Point3<float>,T>”的引用
+          with
+          [
+              T=vcg::Arity1<vcg::vertex::EmptyCore<CUsedTypesO>,vcg::vertex::InfoOcf>
+          ]
+          D:\vcglib\vcg\simplex\vertex\component.h(194,49):
+          查看对正在编译的 类 模板 实例化“vcg::Arity1<Base,A>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>,
+              A=vcg::vertex::InfoOcf
+          ]
+          D:\vcglib\vcg\container\derivation_chain.h(37,27):
+          查看对正在编译的 类 模板 实例化“vcg::vertex::InfoOcf<Base>”的引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>
+          ]
+          D:\vcglib\vcg\simplex\vertex\component_ocf.h(533,16):
+          在编译 类 模板 成员函数“int vcg::vertex::InfoOcf<Base>::Index(void) const”时
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>
+          ]
+              D:\Myproject\VcgToLibigl\VcgToLibigl\CleanMesh.h(35,4):
+              请参阅 "CleanMesh::GetVertexRingVertices" 中对 "vcg::vertex::InfoOcf<Base>::Index" 的第一个引用
+          with
+          [
+              Base=vcg::vertex::EmptyCore<CUsedTypesO>
+          ]
+  
+D:\vcglib\wrap\io_trimesh\export_obj.h(154,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\wrap\io_trimesh\export_obj.h(154,18):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(139,37):
+          查看对正在编译的 类 模板 实例化“vcg::tri::io::ExporterOBJ<CMeshO>”的引用
+          D:\vcglib\wrap\io_trimesh\export_obj.h(128,14):
+          在编译 类 模板 成员函数“int vcg::tri::io::ExporterOBJ<CMeshO>::Save(SaveMeshType &,const char *,int,bool,vcg::CallBackPos (__cdecl *))”时
+          with
+          [
+              SaveMeshType=CMeshO
+          ]
+              D:\vcglib\wrap\io_trimesh\export_obj.h(120,5):
+              请参阅 "vcg::tri::io::ExporterOBJ<CMeshO>::Save" 中对 "vcg::tri::io::ExporterOBJ<CMeshO>::Save" 的第一个引用
+              D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(139,41):
+              请参阅 "MeshClipping::PImpl::deleteInnerPoint" 中对 "vcg::tri::io::ExporterOBJ<CMeshO>::Save" 的第一个引用
+  
+D:\vcglib\vcg\complex\append.h(389,23): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\complex\append.h(389,23):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(66,36):
+          查看对正在编译的 类 模板 实例化“vcg::tri::Append<CMeshO,CMeshO>”的引用
+          D:\vcglib\vcg\complex\append.h(288,13):
+          在编译 类 模板 成员函数“void vcg::tri::Append<CMeshO,CMeshO>::MeshAppendConst(MeshLeft &,const ConstMeshRight &,const bool,const bool)”时
+          with
+          [
+              MeshLeft=CMeshO,
+              ConstMeshRight=CMeshO
+          ]
+              D:\vcglib\vcg\complex\append.h(267,18):
+              请参阅 "vcg::tri::Append<CMeshO,CMeshO>::Mesh" 中对 "vcg::tri::Append<CMeshO,CMeshO>::MeshAppendConst" 的第一个引用
+              D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(66,40):
+              请参阅 "MeshClipping::SetMesh" 中对 "vcg::tri::Append<CMeshO,CMeshO>::Mesh" 的第一个引用
+  
+D:\vcglib\vcg\complex\append.h(400,28): warning C4244: “=”: 从“__int64”转换到“_Ty”，可能丢失数据
+D:\vcglib\vcg\complex\append.h(400,28): warning C4244:         with
+D:\vcglib\vcg\complex\append.h(400,28): warning C4244:         [
+D:\vcglib\vcg\complex\append.h(400,28): warning C4244:             _Ty=unsigned int
+D:\vcglib\vcg\complex\append.h(400,28): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\vcglib\vcg\complex\algorithms\clean.h(370,68): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\complex\algorithms\clean.h(370,68):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\vcglib\vcg\complex\algorithms\clean.h(363,13):
+          在编译 类 模板 成员函数“int vcg::tri::Clean<CMeshO>::RemoveDuplicateEdge(CMeshO &)”时
+              D:\vcglib\vcg\complex\algorithms\clean.h(273,23):
+              请参阅 "vcg::tri::Clean<CMeshO>::RemoveDuplicateVertex" 中对 "vcg::tri::Clean<CMeshO>::RemoveDuplicateEdge" 的第一个引用
+              D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(224,49):
+              请参阅 "CMeshO::EnableAttribute" 中对 "vcg::tri::Clean<CMeshO>::RemoveDuplicateVertex" 的第一个引用
+  
+D:\vcglib\vcg\complex\algorithms\clean.h(370,42): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\vcglib\wrap\io_trimesh\export_obj.h(393,34): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\wrap\io_trimesh\export_obj.h(393,34):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\vcglib\wrap\io_trimesh\export_obj.h(375,21):
+          在编译 类 模板 成员函数“int vcg::tri::io::ExporterOBJ<CMeshO>::WriteMaterials(std::vector<vcg::tri::io::Material,std::allocator<vcg::tri::io::Material>> &,const char *,vcg::CallBackPos (__cdecl *))”时
+              D:\vcglib\wrap\io_trimesh\export_obj.h(290,40):
+              请参阅 "vcg::tri::io::ExporterOBJ<CMeshO>::Save" 中对 "vcg::tri::io::ExporterOBJ<CMeshO>::WriteMaterials" 的第一个引用
+              D:\vcglib\wrap\io_trimesh\export_obj.h(120,5):
+              请参阅 "vcg::tri::io::ExporterOBJ<CMeshO>::Save" 中对 "vcg::tri::io::ExporterOBJ<CMeshO>::Save" 的第一个引用
+              D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(139,41):
+              请参阅 "MeshClipping::PImpl::deleteInnerPoint" 中对 "vcg::tri::io::ExporterOBJ<CMeshO>::Save" 的第一个引用
+  
+D:\vcglib\vcg\complex\allocate.h(761,13): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\complex\allocate.h(761,13):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\Myproject\VcgToLibigl\VcgToLibigl\mymesh.h(226,32):
+          查看对正在编译的 类 模板 实例化“vcg::tri::Allocator<CMeshO>”的引用
+          D:\vcglib\vcg\complex\allocate.h(743,24):
+          在编译 类 模板 成员函数“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> vcg::tri::Allocator<CMeshO>::AddTetras(MeshType &,size_t,vcg::tri::Allocator<MeshType>::PointerUpdater<vcg::TetraSimp<vcg::UsedTypes<vcg::Use<CVertexO>::AsVertexType,vcg::Use<CEdgeO>::AsEdgeType,vcg::Use<CFaceO>::AsFaceType,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver> *> &)”时
+          with
+          [
+              _Ty=vcg::TetraSimp<vcg::UsedTypes<vcg::Use<CVertexO>::AsVertexType,vcg::Use<CEdgeO>::AsEdgeType,vcg::Use<CFaceO>::AsFaceType,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>,
+              MeshType=CMeshO
+          ]
+              D:\vcglib\vcg\complex\allocate.h(901,5):
+              请参阅 "vcg::tri::Allocator<CMeshO>::AddTetras" 中对 "vcg::tri::Allocator<CMeshO>::AddTetras" 的第一个引用
+              D:\vcglib\vcg\complex\append.h(375,25):
+              请参阅 "vcg::tri::Append<CMeshO,CMeshO>::MeshAppendConst::<lambda_5>::operator ()" 中对 "vcg::tri::Allocator<CMeshO>::AddTetras" 的第一个引用
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\sort.cpp(30,17):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\exterior_edges.cpp(55,3):
+          查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(74,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(78,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\unique_rows.cpp(30,34): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\unique_rows.cpp(30,34):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\exterior_edges.cpp(59,3):
+          查看对正在编译的函数 模板 实例化“void igl::unique_rows<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::DenseBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\unique_rows.cpp(30,22): warning C4244: “初始化”: 从“Eigen::Index”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\unique_rows.cpp(31,34): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\unique_rows.cpp(31,22): warning C4244: “初始化”: 从“Eigen::Index”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\unique_rows.cpp(64,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\unique_rows.cpp(64,25): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,23): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,23): warning C4244:         with
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,23): warning C4244:         [
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,23): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,23): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,23):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\swept_volume_signed_distance.cpp(49,3):
+          查看对正在编译的函数 模板 实例化“void igl::per_edge_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::PerEdgeNormalsWeightingType,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,15): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,15): warning C4244:         with
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,15): warning C4244:         [
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,15): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\per_edge_normals.cpp(36,15): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\voxel_grid.cpp(32,14): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\voxel_grid.cpp(32,14):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\swept_volume.cpp(41,3):
+          查看对正在编译的函数 模板 实例化“void igl::voxel_grid<double,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,1,3,1,1,3>>(const Eigen::AlignedBox<double,3> &,const int,const int,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,1,3,1,1,3>> &)”的引用
+  
+D:\libigl-2.4.0\include\igl\voxel_grid.cpp(37,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\marching_cubes.cpp(35,20): warning C4244: “参数”: 从“double”转换到“Eigen::Index”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\marching_cubes.cpp(35,20):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\swept_volume.cpp(47,3):
+          查看对正在编译的函数 模板 实例化“void igl::marching_cubes<Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const unsigned int,const unsigned int,const unsigned int,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\marching_cubes.cpp(36,20): warning C4244: “参数”: 从“double”转换到“Eigen::Index”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\marching_cubes.cpp(75,16): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\marching_cubes.cpp(77,18): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\marching_cubes.cpp(79,20): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\vcglib\vcg\container\simple_temporary_data.h(107,40): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\container\simple_temporary_data.h(107,40):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\vcglib\vcg\complex\algorithms\clean.h(617,13):
+          在编译 类 模板 成员函数“int vcg::tri::Clean<CMeshO>::SplitNonManifoldVertex(CMeshO &,float)”时
+              D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(146,49):
+              请参阅 "MeshClipping::PImpl::surfaceConstruction" 中对 "vcg::tri::Clean<CMeshO>::SplitNonManifoldVertex" 的第一个引用
+          D:\vcglib\vcg\complex\algorithms\clean.h(624,28):
+          查看对正在编译的 类 模板 实例化“vcg::tri::SelectionStack<CMeshO>”的引用
+          D:\vcglib\vcg\complex\algorithms\update\selection.h(99,8):
+          在编译 类 模板 成员函数“bool vcg::tri::SelectionStack<CMeshO>::pop(bool,bool)”时
+              D:\vcglib\vcg\complex\algorithms\clean.h(652,9):
+              请参阅 "vcg::tri::Clean<CMeshO>::SplitNonManifoldVertex" 中对 "vcg::tri::SelectionStack<CMeshO>::pop" 的第一个引用
+              D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(146,49):
+              请参阅 "MeshClipping::PImpl::surfaceConstruction" 中对 "vcg::tri::Clean<CMeshO>::SplitNonManifoldVertex" 的第一个引用
+          D:\vcglib\vcg\complex\algorithms\update\selection.h(114,19):
+          查看对正在编译的函数 模板 实例化“ATTR_TYPE &vcg::tri::TriMesh<vcg::vertex::vector_ocf<CVertexO>,vcg::face::vector_ocf<CFaceO>,vcg::tri::DummyContainer,vcg::tri::DummyContainer,vcg::tri::DummyContainer>::AttributeHandle<ATTR_TYPE,vcg::vertex::vector_ocf<CVertexO>>::operator []<CVertexO>(const RefType &)”的引用
+          with
+          [
+              ATTR_TYPE=bool,
+              RefType=CVertexO
+          ]
+          D:\vcglib\vcg\complex\base.h(302,55):
+          查看对正在编译的 类 模板 实例化“vcg::SimpleTempData<CONT,ATTR_TYPE>”的引用
+          with
+          [
+              CONT=vcg::vertex::vector_ocf<CVertexO>,
+              ATTR_TYPE=bool
+          ]
+          D:\vcglib\vcg\container\simple_temporary_data.h(132,26):
+          查看对正在编译的 类 模板 实例化“vcg::VectorNBW<ATTR_TYPE>”的引用
+          with
+          [
+              ATTR_TYPE=bool
+          ]
+          D:\vcglib\vcg\container\simple_temporary_data.h(107,18):
+          在编译 类 模板 成员函数“unsigned int vcg::VectorNBW<ATTR_TYPE>::size(void) const”时
+          with
+          [
+              ATTR_TYPE=bool
+          ]
+              D:\vcglib\vcg\container\simple_temporary_data.h(196,9):
+              请参阅 "vcg::SimpleTempData<CONT,ATTR_TYPE>::Reorder" 中对 "vcg::VectorNBW<ATTR_TYPE>::size" 的第一个引用
+          with
+          [
+              CONT=std::vector<vcg::TetraSimp<vcg::UsedTypes<vcg::Use<CVertexO>::AsVertexType,vcg::Use<CEdgeO>::AsEdgeType,vcg::Use<CFaceO>::AsFaceType,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>,std::allocator<vcg::TetraSimp<vcg::UsedTypes<vcg::Use<CVertexO>::AsVertexType,vcg::Use<CEdgeO>::AsEdgeType,vcg::Use<CFaceO>::AsFaceType,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>>>,
+              ATTR_TYPE=bool
+          ]
+          and
+          [
+              ATTR_TYPE=bool
+          ]
+  
+D:\vcglib\vcg\container\simple_temporary_data.h(87,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\container\simple_temporary_data.h(87,19):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\vcglib\vcg\container\simple_temporary_data.h(85,7):
+          在编译 类 模板 成员函数“void vcg::VectorNBW<ATTR_TYPE>::resize(size_t)”时
+          with
+          [
+              ATTR_TYPE=bool
+          ]
+              D:\vcglib\vcg\container\simple_temporary_data.h(191,20):
+              请参阅 "vcg::SimpleTempData<CONT,ATTR_TYPE>::Resize" 中对 "vcg::VectorNBW<ATTR_TYPE>::resize" 的第一个引用
+          with
+          [
+              CONT=std::vector<vcg::TetraSimp<vcg::UsedTypes<vcg::Use<CVertexO>::AsVertexType,vcg::Use<CEdgeO>::AsEdgeType,vcg::Use<CFaceO>::AsFaceType,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>,std::allocator<vcg::TetraSimp<vcg::UsedTypes<vcg::Use<CVertexO>::AsVertexType,vcg::Use<CEdgeO>::AsEdgeType,vcg::Use<CFaceO>::AsFaceType,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver,vcg::DefaultDeriver>>>,
+              ATTR_TYPE=bool
+          ]
+          and
+          [
+              ATTR_TYPE=bool
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\sort.cpp(178,17):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\exterior_edges.cpp(55,3):
+          查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+          D:\libigl-2.4.0\include\igl\sort.cpp(37,19):
+          查看对正在编译的函数 模板 实例化“void igl::sort2<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\sort.cpp(224,17):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\sort.cpp(39,19):
+          查看对正在编译的函数 模板 实例化“void igl::sort3<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\list_to_matrix.cpp(22,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\list_to_matrix.cpp(22,9):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\triangle_fan.cpp(53,3):
+          查看对正在编译的函数 模板 实例化“void igl::triangle_fan<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+          D:\libigl-2.4.0\include\igl\triangle_fan.cpp(47,3):
+          查看对正在编译的函数 模板 实例化“bool igl::list_to_matrix<int,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+  
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,24): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,24): warning C4244:         with
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,24): warning C4244:         [
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,24): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,24): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\winding_number.cpp(70,24):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\WindingNumberAABB.h(383,159):
+          查看对正在编译的 类 模板 实例化“igl::WindingNumberAABB<Eigen::Matrix<double,1,3,1,1,3>,Eigen::Matrix<double,-1,2,0,-1,2>,Eigen::Matrix<int,-1,2,0,-1,2>>”的引用
+          D:\libigl-2.4.0\include\igl\WindingNumberAABB.h(315,1):
+          在编译 类 模板 成员函数“double igl::WindingNumberAABB<Eigen::Matrix<double,1,3,1,1,3>,Eigen::Matrix<double,-1,2,0,-1,2>,Eigen::Matrix<int,-1,2,0,-1,2>>::max_simple_abs_winding_number(const Point &) const”时
+          with
+          [
+              Point=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+          D:\libigl-2.4.0\include\igl\WindingNumberAABB.h(374,15):
+          查看对正在编译的函数 模板 实例化“double igl::winding_number<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,1,3,1,1,3>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Eigen::Matrix<double,1,3,1,1,3>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,16): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,16): warning C4244:         with
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,16): warning C4244:         [
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,16): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\winding_number.cpp(70,16): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,23): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,23): warning C4244:         with
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,23): warning C4244:         [
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,23): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,23): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,15): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,15): warning C4244:         with
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,15): warning C4244:         [
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,15): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\winding_number.cpp(71,15): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\per_face_normals.cpp(21,13): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\per_face_normals.cpp(21,13): warning C4244:         with
+D:\libigl-2.4.0\include\igl\per_face_normals.cpp(21,13): warning C4244:         [
+D:\libigl-2.4.0\include\igl\per_face_normals.cpp(21,13): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\per_face_normals.cpp(21,13): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\per_face_normals.cpp(21,13):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\swept_volume_signed_distance.cpp(47,3):
+          查看对正在编译的函数 模板 实例化“void igl::per_face_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+          D:\libigl-2.4.0\include\igl\per_face_normals.cpp(46,10):
+          查看对正在编译的函数 模板 实例化“void igl::per_face_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,3,1,0,3,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Eigen::Matrix<double,3,1,0,3,1>> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,25): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,25): warning C4244:         with
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,25): warning C4244:         [
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,25): warning C4244:             Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,25): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\doublearea.cpp(25,25):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\swept_volume_signed_distance.cpp(48,3):
+          查看对正在编译的函数 模板 实例化“void igl::per_vertex_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::PerVertexNormalsWeightingType,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+          D:\libigl-2.4.0\include\igl\per_vertex_normals.cpp(65,7):
+          查看对正在编译的函数 模板 实例化“void igl::doublearea<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,17): warning C4244:             Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\doublearea.cpp(25,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\doublearea.cpp(53,56): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\doublearea.cpp(65,39): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\AABB.cpp(79,30): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\AABB.cpp(79,30):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\swept_volume_signed_distance.cpp(52,8):
+          查看对正在编译的函数 模板 实例化“void igl::AABB<Eigen::MatrixXd,3>::init<Derived>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+              D:\libigl-2.4.0\include\igl\swept_volume_signed_distance.cpp(52,12):
+              请参阅 "igl::swept_volume_signed_distance" 中对 "igl::AABB<Eigen::MatrixXd,3>::init" 的第一个引用
+          D:\libigl-2.4.0\include\igl\AABB.cpp(100,10):
+          查看对正在编译的函数 模板 实例化“void igl::AABB<Eigen::MatrixXd,3>::init<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const int)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\AABB.cpp(79,21): warning C4244: “初始化”: 从“Eigen::Index”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,24): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,24): warning C4244:         with
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,24): warning C4244:         [
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,24): warning C4244:             Derived=Eigen::Matrix<double,1,3,1,1,3>
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,24): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,24):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\swept_volume_signed_distance.cpp(81,9):
+          查看对正在编译的函数 模板 实例化“void igl::pseudonormal_test<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Derived,Derived,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<double,1,3,1,1,3>,Eigen::Matrix<double,1,3,1,1,3>,double,Eigen::Matrix<double,1,3,1,1,3>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::MatrixBase<Eigen::Matrix<double,1,3,1,1,3>> &,const int,Eigen::PlainObjectBase<Eigen::Matrix<double,1,3,1,1,3>> &,Scalar &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,3,1,1,3>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              Scalar=double
+          ]
+          D:\libigl-2.4.0\include\igl\pseudonormal_test.cpp(116,7):
+          查看对正在编译的函数 模板 实例化“void igl::project_to_line_segment<Derived,Derived,Derived,Eigen::Matrix<double,1,1,0,1,1>,Eigen::Matrix<double,1,1,0,1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+  
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,16): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,16): warning C4244:         with
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,16): warning C4244:         [
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,16): warning C4244:             Derived=Eigen::Matrix<double,1,3,1,1,3>
+D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(26,16): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\vcglib\vcg\complex\algorithms\refine.h(154,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\vcglib\vcg\complex\algorithms\refine.h(154,40):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\Myproject\VcgToLibigl\VcgToLibigl\MeshClipping.cpp(121,91):
+          查看对正在编译的 类 模板 实例化“vcg::tri::MidPoint<CMeshO,vcg::tri::BaseInterpolator<MESH_TYPE>>”的引用
+          with
+          [
+              MESH_TYPE=CMeshO
+          ]
+          D:\vcglib\vcg\complex\algorithms\refine.h(139,10):
+          在编译 类 模板 成员函数“void vcg::tri::MidPoint<CMeshO,vcg::tri::BaseInterpolator<MESH_TYPE>>::operator ()(CVertexO &,vcg::face::Pos<CFaceO>)”时
+          with
+          [
+              MESH_TYPE=CMeshO
+          ]
+              D:\vcglib\vcg\complex\algorithms\refine.h(405,28):
+              请参阅 "vcg::tri::RefineE" 中对 "vcg::tri::MidPoint<CMeshO,vcg::tri::BaseInterpolator<MESH_TYPE>>::operator ()" 的第一个引用
+          with
+          [
+              MESH_TYPE=CMeshO
+          ]
+              D:\vcglib\vcg\complex\algorithms\refine.h(550,10):
+              请参阅 "vcg::tri::Refine" 中对 "vcg::tri::RefineE" 的第一个引用
+  
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,23): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,23): warning C4244:         with
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,23): warning C4244:         [
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,23): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,23): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,23):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\per_vertex_normals.cpp(70,7):
+          查看对正在编译的函数 模板 实例化“void igl::internal_angles<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,3,0,-1,3>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+          D:\libigl-2.4.0\include\igl\internal_angles.cpp(28,12):
+          查看对正在编译的函数 模板 实例化“void igl::squared_edge_lengths<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,15): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,15): warning C4244:         with
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,15): warning C4244:         [
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,15): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\squared_edge_lengths.cpp(19,15): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:             Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\sort.cpp(30,17):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\AABB.cpp(100,10):
+          查看对正在编译的函数 模板 实例化“void igl::AABB<Eigen::MatrixXd,3>::init<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const int)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+          D:\libigl-2.4.0\include\igl\AABB.cpp(77,12):
+          查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:             Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\project_to_line.cpp(34,11): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\project_to_line.cpp(34,11): warning C4244:         with
+D:\libigl-2.4.0\include\igl\project_to_line.cpp(34,11): warning C4244:         [
+D:\libigl-2.4.0\include\igl\project_to_line.cpp(34,11): warning C4244:             Derived=Eigen::Matrix<double,1,3,1,1,3>
+D:\libigl-2.4.0\include\igl\project_to_line.cpp(34,11): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\project_to_line.cpp(34,11):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\pseudonormal_test.cpp(116,7):
+          查看对正在编译的函数 模板 实例化“void igl::project_to_line_segment<Derived,Derived,Derived,Eigen::Matrix<double,1,1,0,1,1>,Eigen::Matrix<double,1,1,0,1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+          D:\libigl-2.4.0\include\igl\project_to_line_segment.cpp(25,3):
+          查看对正在编译的函数 模板 实例化“void igl::project_to_line<Derived,Derived,Derived,Eigen::Matrix<double,1,1,0,1,1>,Eigen::Matrix<double,1,1,0,1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+  
+D:\libigl-2.4.0\include\igl\slice.cpp(128,10): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\slice.cpp(128,10): warning C4244:         with
+D:\libigl-2.4.0\include\igl\slice.cpp(128,10): warning C4244:         [
+D:\libigl-2.4.0\include\igl\slice.cpp(128,10): warning C4244:             Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+D:\libigl-2.4.0\include\igl\slice.cpp(128,10): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\slice.cpp(128,10):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\remove_duplicate_vertices.cpp(32,5):
+          查看对正在编译的函数 模板 实例化“void igl::slice<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const Eigen::DenseBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::DenseBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,2,0,-1,2>
+          ]
+  
+D:\libigl-2.4.0\include\igl\slice.cpp(129,10): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\slice.cpp(129,10): warning C4244:         with
+D:\libigl-2.4.0\include\igl\slice.cpp(129,10): warning C4244:         [
+D:\libigl-2.4.0\include\igl\slice.cpp(129,10): warning C4244:             Derived=Eigen::Matrix<int,-1,1,0,-1,1>
+D:\libigl-2.4.0\include\igl\slice.cpp(129,10): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\parallel_for.h(110,62): warning C4244: “参数”: 从“igl::doublearea::Index”转换到“const int”，可能丢失数据
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\parallel_for.h(110,62):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\doublearea.cpp(72,14):
+          查看对正在编译的函数 模板 实例化“void igl::doublearea<Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)”的引用
+          D:\libigl-2.4.0\include\igl\doublearea.cpp(168,3):
+          查看对正在编译的函数 模板 实例化“bool igl::parallel_for<igl::doublearea::Index,igl::doublearea::<lambda_1>>(const Index,const FunctionType &,const size_t)”的引用
+          with
+          [
+              Index=igl::doublearea::Index,
+              FunctionType=igl::doublearea::<lambda_1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:             Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\sort.cpp(178,17):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\AABB.cpp(77,12):
+          查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+          D:\libigl-2.4.0\include\igl\sort.cpp(37,19):
+          查看对正在编译的函数 模板 实例化“void igl::sort2<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:             Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:             Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\sort.cpp(224,17):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\sort.cpp(39,19):
+          查看对正在编译的函数 模板 实例化“void igl::sort3<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:             Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\parallel_for.h(135,15): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\parallel_for.h(135,15):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\doublearea.cpp(168,3):
+          查看对正在编译的函数 模板 实例化“bool igl::parallel_for<igl::doublearea::Index,igl::doublearea::<lambda_1>>(const Index,const FunctionType &,const size_t)”的引用
+          with
+          [
+              Index=igl::doublearea::Index,
+              FunctionType=igl::doublearea::<lambda_1>
+          ]
+          D:\libigl-2.4.0\include\igl\parallel_for.h(111,10):
+          查看对正在编译的函数 模板 实例化“bool igl::parallel_for<Index,igl::parallel_for::<lambda_1>,igl::parallel_for::<lambda_2>,igl::parallel_for::<lambda_1>>(const Index,const PreFunctionType &,const FunctionType &,const AccumFunctionType &,const size_t)”的引用
+          with
+          [
+              Index=igl::doublearea::Index,
+              PreFunctionType=igl::parallel_for::<lambda_1>,
+              FunctionType=igl::parallel_for::<lambda_2>,
+              AccumFunctionType=igl::parallel_for::<lambda_1>
+          ]
+  
+D:\libigl-2.4.0\include\igl\colon.cpp(21,70): warning C4244: “参数”: 从“H”转换到“const int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\colon.cpp(21,70): warning C4244:         with
+D:\libigl-2.4.0\include\igl\colon.cpp(21,70): warning C4244:         [
+D:\libigl-2.4.0\include\igl\colon.cpp(21,70): warning C4244:             H=Eigen::EigenBase<Eigen::Matrix<int,-1,-1,0,-1,-1>>::Index
+D:\libigl-2.4.0\include\igl\colon.cpp(21,70): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\colon.cpp(21,70):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\AABB.cpp(62,21):
+          查看对正在编译的函数 模板 实例化“Eigen::Matrix<int,-1,1,0,-1,1> igl::colon<int,int,Eigen::EigenBase<Derived>::Index>(const L,const H)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              L=int,
+              H=Eigen::EigenBase<Eigen::Matrix<int,-1,-1,0,-1,-1>>::Index
+          ]
+          D:\libigl-2.4.0\include\igl\colon.cpp(39,8):
+          查看对正在编译的函数 模板 实例化“void igl::colon<L,H,int>(const L,const H,Eigen::Matrix<int,-1,1,0,-1,1> &)”的引用
+          with
+          [
+              L=int,
+              H=Eigen::EigenBase<Eigen::Matrix<int,-1,-1,0,-1,-1>>::Index
+          ]
+          D:\libigl-2.4.0\include\igl\colon.cpp(30,15):
+          查看对正在编译的函数 模板 实例化“void igl::colon<L,int,H,int>(const L,const S,const H,Eigen::Matrix<int,-1,1,0,-1,1> &)”的引用
+          with
+          [
+              L=int,
+              H=Eigen::EigenBase<Eigen::Matrix<int,-1,-1,0,-1,-1>>::Index,
+              S=int
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:             Derived=Eigen::Matrix<double,1,3,1,1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(30,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\sort.cpp(30,17):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\pseudonormal_test.cpp(53,5):
+          查看对正在编译的函数 模板 实例化“void igl::doublearea<Derived,Derived,Derived,Eigen::Matrix<double,1,1,0,1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+          D:\libigl-2.4.0\include\igl\doublearea.cpp(112,7):
+          查看对正在编译的函数 模板 实例化“void igl::doublearea<Derived,Eigen::Matrix<double,1,1,0,1,1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+          D:\libigl-2.4.0\include\igl\doublearea.cpp(140,10):
+          查看对正在编译的函数 模板 实例化“void igl::doublearea<Derived,Eigen::Matrix<double,1,1,0,1,1>>(const Eigen::MatrixBase<Derived> &,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+          D:\libigl-2.4.0\include\igl\doublearea.cpp(162,8):
+          查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:             Derived=Eigen::Matrix<double,1,3,1,1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(43,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:             Derived=Eigen::Matrix<double,1,3,1,1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(178,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\sort.cpp(178,17):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\doublearea.cpp(162,8):
+          查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+          D:\libigl-2.4.0\include\igl\sort.cpp(37,19):
+          查看对正在编译的函数 模板 实例化“void igl::sort2<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:             Derived=Eigen::Matrix<double,1,3,1,1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(180,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:             Derived=Eigen::Matrix<double,1,3,1,1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(224,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+      D:\libigl-2.4.0\include\igl\sort.cpp(224,17):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\libigl-2.4.0\include\igl\sort.cpp(39,19):
+          查看对正在编译的函数 模板 实例化“void igl::sort3<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+  
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:         with
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:         [
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:             Derived=Eigen::Matrix<double,1,3,1,1,3>
+D:\libigl-2.4.0\include\igl\sort.cpp(226,17): warning C4244:         ]
+  (编译源文件“MeshClipping.cpp”)
+  
+  正在生成代码
+  88 of 16818 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    144 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  VcgToLibigl.vcxproj -> D:\Myproject\VcgToLibigl\x64\Release\VcgToLibigl.exe
